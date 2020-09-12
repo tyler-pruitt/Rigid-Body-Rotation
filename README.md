@@ -1,1 +1,1 @@
-# rigid_body_rotation
+# rigid-body-rotation
